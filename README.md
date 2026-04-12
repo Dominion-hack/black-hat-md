@@ -256,7 +256,7 @@ pm2 restart black-hat-md
   
 - **[CONTACT SUPPORT](https://clevertechnexus.qzz.io/) For More Info**
 - **Join [WHATSAPP CHANNEL](https://whatsapp.com/channel/0029Vb73SRl1CYoLWtyr4u1X) for Daily Updates.**
-- **Check out my [Github Profile](https://github.com/clevertechnexus) for More Projects.**
+- **Check out my [Github Profile](https://github.com/clevertechnexus2) for More Projects.**
 </details>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
