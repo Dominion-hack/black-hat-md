@@ -179,7 +179,7 @@ gmd(
 *🍁 Dᴀᴛᴇ Tᴏᴅᴀʏ:* ${monospace(date)}
 *🎗 Tɪᴍᴇ Nᴏᴡ:* ${monospace(time)}
 
-➮Fᴏᴜɴᴅᴇʀ - clevertechnexus
+➮Fᴏᴜɴᴅᴇʀ - TEMPLEDOMIC TECH
 ➮Usᴇʀ - ${monospace(pushName)}
 ➮Nᴜᴍ - ${monospace(ownerNumber)} 
 ➮Mᴇᴍᴏʀʏ - ${monospace(ram)}
