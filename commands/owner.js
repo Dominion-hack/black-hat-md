@@ -1122,7 +1122,7 @@ gmd(
         }
       }
 
-      let sourceName = botName || "𝐁𝐋𝐀𝐂𝐊 𝐇𝐀𝐓 𝐌𝐃";
+      let sourceName = botName || "DOMINION 𝐌𝐃";
       if (isGroup && groupName) {
         sourceName = groupName;
       } else if (!isGroup) {
