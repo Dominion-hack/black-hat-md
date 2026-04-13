@@ -661,8 +661,8 @@ gmd(
           const stickerBuffer = Buffer.from(response.data);
 
           const processedSticker = await gmdSticker(stickerBuffer, {
-            pack: packName || "𝐁𝐋𝐀𝐂𝐊 𝐇𝐀𝐓 𝐌𝐃",
-            author: packAuthor || "CLEVER-TECH",
+            pack: packName || "DOMINION 𝐌𝐃",
+            author: packAuthor || "TEMPLEDOMIC-TECH",
             type: StickerTypes.FULL,
             categories: ["🤩", "🎉"],
             quality: 75,
